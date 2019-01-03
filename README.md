@@ -1,0 +1,1 @@
+# 31.menghitung-total-rata-max-min
